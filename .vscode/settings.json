@@ -1,0 +1,15 @@
+{
+    "workbench.editor.alwaysShowEditorActions": true,
+    "workbench.editor.showTabIndex": true,
+    "workbench.editor.sharedViewState": true,
+    "workbench.editor.autoLockGroups": {
+        "default": true,
+        "workbench.editor.chatSession": true,
+        "workbench.editor.chatDebug": true,
+        "workbench.editorinputs.searchEditorInput": true,
+        "vscode.videoPreview": true,
+        "agentSessionsWelcomePage": true,
+        "notebookOutputEditor": true
+    },
+    "workbench.editor.defaultBinaryEditor": "default"
+}
